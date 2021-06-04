@@ -116,10 +116,11 @@ button:hover{
     display:flex;
     align-items: center;
     background-color: #fff;
-    font-size: 14px;
+    font-size: 12px;
+    letter-spacing: 1px;
     }
     .nav__links li a{
-        color:hsl(256, 26%, 20%);
+        color:hsl(273, 4%, 51%);
     }
     .nav--link {
     padding:0px;
@@ -132,9 +133,9 @@ button:hover{
     background:none;
     font-family: 'Karla';
     text-transform: uppercase;
-    font-size:14px;
+    font-size:12px;
     box-sizing: border-box;
-    padding:5px;
+    padding:5px 30px;
     }
     .hero {
         width: 100%;
@@ -161,12 +162,12 @@ button:hover{
     .hero__info {
         font-size: 14px;
         line-height: 150%;
-        margin-bottom:15px;
+        margin-bottom:25px;
     }
     .hero__button{
         color:#fff;
         width:140px;
-        font-size:14px;
+        font-size:12px;
     }
     .hero__bg--desktop--right{
         background-image: url("../images/bg-pattern-intro-right-desktop.svg");
@@ -261,7 +262,7 @@ button:hover{
         background:none;
         font-family: 'Karla';
         text-transform: uppercase;
-        font-size:14px;
+        font-size:12px;
         letter-spacing: 1px;
         box-sizing: border-box;
         padding:5px 10px;
