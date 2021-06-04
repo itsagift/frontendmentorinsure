@@ -56,7 +56,7 @@ a {
     display: none;
 }
 .hero__title{
-    font: 400 2.5em/100% 'DM Serif Display';
+    font: 400 3em/100% 'DM Serif Display';
 }
 .section__title {
     font-weight:400;
@@ -195,7 +195,7 @@ a {
     }
     .different{
         padding: 0 10% 0 10%;
-        margin-top:300px;
+        margin-top:350px;
         position: relative;
         margin-bottom:65px;
     }
@@ -211,6 +211,7 @@ a {
     .different__title {
         padding-top:65px;
         color:hsl(270, 9%, 17%);
+        font-size:3rem;
     }
 
     .different__flex {
