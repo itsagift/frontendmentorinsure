@@ -197,7 +197,7 @@ a {
         padding: 0 10% 0 10%;
         margin-top:350px;
         position: relative;
-        margin-bottom:65px;
+        margin-bottom:100px;
     }
     .different__title:before {
         content: "";
@@ -232,7 +232,7 @@ a {
     }
     .cta {
         padding: 0 10%;
-        margin-bottom:20px;
+        margin-bottom:100px;
         
     }
     .cta__banner{
@@ -249,7 +249,7 @@ a {
     }
     .cta__title{
         margin-right:auto;
-        width:50%;
+        width:40%;
         text-align: left;
     }
     .cta__button{
@@ -267,7 +267,7 @@ a {
     }
     .footer {
         margin-top:65px;
-        padding: 0 10%;
+        padding: 0 10% 5% 10%;
         width:100%;
         background-color:hsl(0, 0%, 98%);
         background-image: url(images/bg-pattern-footer-desktop.svg);
